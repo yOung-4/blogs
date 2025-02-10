@@ -14,13 +14,16 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
     "element-plus": "^2.9.4",
     "pinia": "^2.3.1",
     "vue": "^3.5.13",
+    "vue-i18n": "^10.0.5",
     "vue-router": "^4.5.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.18.0",
+    "@intlify/unplugin-vue-i18n": "^6.0.3",
     "@vitejs/plugin-vue": "^5.2.1",
     "@vitest/eslint-plugin": "1.1.25",
     "@vue/eslint-config-prettier": "^10.1.0",
